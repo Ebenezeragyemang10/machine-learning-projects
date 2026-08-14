@@ -1,0 +1,6 @@
+*.json
+*csv
+checkpoint/
+models/
+.pth
+__pycache__
